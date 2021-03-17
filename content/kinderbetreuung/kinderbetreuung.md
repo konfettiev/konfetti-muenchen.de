@@ -5,7 +5,7 @@ draft = false
 
 +++
 
-Konfetti e.V. ist eine [Eltern-Kind-Initiative](/eltern-initiativ/) mit [Krippe](/kinderbetreuung/krippe/), [Kindergarten](/kinderbetreuung/kindergarten/) und [Hort](/kinderbetreuung/hort/).
+Konfetti e.V. ist eine [Eltern-Kind-Initiative](/konfetti/eltern-initiativ) mit [Krippe](/konfetti/kinderbetreuung/krippe/), [Kindergarten](/konfetti/kinderbetreuung/kindergarten/) und [Hort](/konfetti/kinderbetreuung/hort/).
 
 Die Stärke unserer Initiative liegt in unserem stabilen Betreuerteam. Der Betreuungsschlüssel ist mit insgesamt 5 pädagogischen Fachkräften, dazu kommen qualifizierte Teilzeitkräfte, FSJlerInnen und Praktikantinnen hervorragend. Konfetti hat eine Betriebserlaubnis für 37 Kinder.
 
