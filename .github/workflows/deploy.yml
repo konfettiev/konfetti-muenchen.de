@@ -18,13 +18,12 @@ jobs:
           hugo-version: 0.81.0
 
       - name: 🔨 Build
-        run: hugo --minify
+        run: hugo --environment production
 
       - name: 🚢 Upload Site
         uses: SamKirkland/FTP-Deploy-Action@4.0.0
         with:
           server: home.mnet-online.de
           local-dir: ./public/
-          server-dir: konfetti/
           username: konfettiftp
           password: ${{ secrets.FTP_PASSWORD }}

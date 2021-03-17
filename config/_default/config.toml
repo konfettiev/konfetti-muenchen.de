@@ -1,7 +1,6 @@
 languageCode = "de"
 title = "Konfetti"
 theme = "konfetti"
-baseurl = "/"
 enableEmoji = true
 googleAnalytics = ""
 
