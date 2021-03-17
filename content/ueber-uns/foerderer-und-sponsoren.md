@@ -8,7 +8,3 @@ image = "foerderhinweis.jpg"
 Konfetti e.V. finanziert sich zum einen aus Zuschüssen des Sozialreferats der Stadt München unter Einbeziehung der Fördervoraussetzungen des BayKiBig (Bayerisches Kinderbildungsbetreuungsgesetz), zum anderen aus den Elternbeiträgen.
 
 Gefördert von der Landeshauptstadt München.
-
-### Sponsoren
-
-- Patentanwaltskanzlei Puschmann, Borchert und Bardehle
