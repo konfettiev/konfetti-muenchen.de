@@ -22,10 +22,10 @@ Registernummer 1620028056
 
 ### Verantwortlich für die Inhalte
 
-Thomas Jones<br/>
-Holzstraße 27d<br/>
+Marco Otte-Witte<br/>
+Reifenstuelstr. 13<br/>
 80469 München<br/>
-tigertomjones(at)gmx.de<br/>
+marco.otte-witte@simplabs.com<br/>
 
 # Haftungsausschluss
 
