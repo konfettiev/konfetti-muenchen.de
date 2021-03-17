@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Open+Sans:400,400i,600,600i,700,700i');
+
+html,
+body {
+  background: #fff;
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#container {
+  margin: auto;
+}
+
+#header {
+  margin-top: 2em;
+}
+
+#site-logo {
+  float: left;
+  height: 80%;
+  margin-bottom: 0.5em;
+  margin-left: 1.5em;
+}
+
+#site-title,
+a:link,
+a:active,
+a:visited,
+a:hover {
+  color: #D2382E;
+  text-decoration: none;
+}
+
+#site-title {
+  font-weight: 700;
+  font-size: xx-large;
+}
+
+#site-title a:link,
+#site-title a:active,
+#site-title a:visited,
+#site-title a:hover {
+  text-decoration: none;
+}
+
+#site-slogan,
+#footer {
+  color: #777;
+}
+
+#site-slogan {
+  margin-top: .75em;
+}
+
+nav {
+  clear: both;
+  margin-top: 3em;
+  background-color: #D2382E;
+  border-radius: 1.5em;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.highlight-menu {
+  background-color: #73A0BA;
+}
+
+nav ul.first > li {
+  display: inline-block;
+  padding: 0.5em 0.5em;
+  
+}
+
+nav ul.second,
+nav ul.third {
+  display: none;
+}
+
+nav a:link,
+nav a:active,
+nav a:visited,
+nav a:hover {
+  text-decoration: none;
+}
+
+nav a:link,
+nav a:active,
+nav a:visited {
+  color: #fff;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+#footer,
+hr {
+  border-top: 1px dashed #aaa;
+  margin-left: 1.5em;
+}
+
+#content {
+  margin-top: 2em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+
+#article {
+  margin-top: 2em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  /*font-family: 'Lora', serif;*/
+  font-family: 'Open Sans', sans-serif;  
+  font-weight: 600;
+  color: #205C90;
+}
+
+#article p, #article ol li, #article ul li {
+  text-align: justify;
+}
+
+#article blockquote {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 1.05em;
+  line-height: 1.5em;
+}
+
+#article dl dt {
+  font-weight: bold;
+}
+
+#article dl dt em {
+  font-weight: normal;
+}
+
+#article .timestamp,
+#article .tags,
+#article .tags a:link,
+#article .tags a:active,
+#article .tags a:visited,
+#article .tags a:hover {
+  color: #555;
+}
+
+hr {
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  margin: 2.5em 0;
+}
+
+span.upper {
+  text-transform: uppercase;
+}
+
+img {
+  max-width: 100%;
+  .width: 324px;
+}
+
+img.right {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+img.left {
+  float: left;
+  margin: 0 1em 1em 0;
+}
+
+#footer {
+  clear: both;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 0.4em;
+  font-size: 80%;
+}
+
+ul.pagination {
+  padding: 0;
+  list-style-type: none;
+}
+
+.pagination li {
+  display: inline-block;
+}
+
+.pagination .active a:link,
+.pagination .active a:active,
+.pagination .active a:visited,
+.pagination .active a:hover,
+.pagination .disabled a:link,
+.pagination .disabled a:active,
+.pagination .disabled a:visited,
+.pagination .disabled a:hover {
+  color: #555;
+  text-decoration: none;
+}
+
+th.header {
+  width: 1px;
+  white-space: nowrap;
+  font-weight: lighter;
+  .border-style: solid;
+  .background-color: #eee;
+}
+
+td.cell {
+  width: 1px;
+  white-space: nowrap;
+  font-weight: bold;
+  .border-style: solid;
+  background-color: #eee;
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+  #container {
+    width: 950px;
+  }
+
+  nav ul li a {
+    display: block;
+    font-size: 100%;
+  }
+
+  nav ul.first > li {
+    display: inline-block;
+    position: relative;
+  }
+
+  nav ul.second,
+  nav ul.third {
+    position: absolute;
+    background: #D2382E;
+    width: 212px;
+    border: 1px solid #ddd;
+    box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.25);
+  }
+
+  nav ul.second {
+    z-index: 2;
+  }
+
+  nav ul.third {
+    z-index: 3;
+  }
+
+  nav ul.second li {
+    position: relative;
+  }
+
+  nav ul.third {
+    left: 212px;
+    top: -1px;
+  }
+
+  nav ul.first li:hover ul.second,
+  nav ul.second li:hover ul.third {
+    display: block;
+  }
+
+  nav ul.second li a,
+  nav ul.third li a {
+    padding: 0.75em 1em;
+  }
+
+  #article {
+    width: 576px;
+    position: relative;
+  }
+
+  #summary {
+    display: block;
+    position: absolute;
+    top: 0px;
+    left: 608px;
+    width: 296px;
+  }
+
+}

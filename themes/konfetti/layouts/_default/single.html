@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+
+{{ if .Params.image }}
+<div id="summary">
+	<img src="{{ .Site.BaseURL }}img/{{ .Params.image }}" alt=""/>
+</div>
+{{ end }}
+
+{{ .Content }}
+
+{{ if .Params.tags }}
+  {{ partial "tags" .Params.tags }}
+{{ end }}
+
+{{ partial "footer.html" . }}

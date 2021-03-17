@@ -1,0 +1,8 @@
+name = "konfetti"
+description = "A clean Hugo theme for websites"
+tags = ["clean"]
+features = ["responsive", "404", "blog", "tags"]
+min_version = 0.18
+
+[author]
+name = "Tom Jones"

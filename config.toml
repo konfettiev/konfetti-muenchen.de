@@ -1,0 +1,91 @@
+languageCode = "de"
+title = "Konfetti"
+theme = "konfetti"
+baseurl = "http://home.mnet-online.de/konfetti/"
+enableEmoji = true
+googleAnalytics = ""
+
+[params]
+description = "Website des Konfetti e.V."
+
+[permalinks]
+blog  = "/blog/:year/:month/:title/"
+
+[taxonomies]
+tags = "tags"
+
+[[menu.main]]
+weight = 1
+name = "Über uns"
+url = "/ueber-uns/ueber-uns"
+identifier = "ueber-uns"
+  [[menu.main]]
+  parent = "ueber-uns"
+  weight = 1
+  name = "Team"
+  url = "/ueber-uns/team/"
+  [[menu.main]]
+  parent = "ueber-uns"
+  weight = 2
+  name = "Stellenausschreibungen"
+  url = "/ueber-uns/stellenausschreibungen/"
+  [[menu.main]]
+  parent = "ueber-uns"
+  weight = 3
+  name = "Zeiten & Preise"
+  url = "/ueber-uns/zeiten-und-preise/"
+  [[menu.main]]
+  parent = "ueber-uns"
+  weight = 4
+  name = "Förderer & Sponsoren"
+  url = "/ueber-uns/foerderer-und-sponsoren/"
+  [[menu.main]]
+  parent = "ueber-uns"
+  weight = 5
+  name = "Kontakt"
+  url = "/ueber-uns/kontakt/"
+
+
+[[menu.main]]
+weight = 2
+name = "Eltern initiativ!"
+url = "/eltern-initiativ/"
+
+[[menu.main]]
+weight = 3
+name = "Kinderbetreuung"
+url = "/kinderbetreuung/kinderbetreuung"
+identifier = "kinderbetreuung"
+  [[menu.main]] 
+  parent = "kinderbetreuung"
+  weight = 1
+  name = "Krippe"
+  url = "/kinderbetreuung/krippe/"
+  [[menu.main]]
+  parent = "kinderbetreuung"
+  weight = 2
+  name = "Kindergarten"
+  url = "/kinderbetreuung/kindergarten/"
+  [[menu.main]]
+  parent = "kinderbetreuung"
+  weight = 3
+  name = "Hort"
+  url = "/kinderbetreuung/hort/"
+
+[[menu.main]]
+weight = 4
+name = "Anmeldung"
+url = "/anmeldung"
+
+
+[[menu.main]]
+weight = 5
+name = "Offene Stellen"
+url = "/ueber-uns/stellenausschreibungen/"
+identifier = "highlight-menu"
+
+[[menu.main]]
+weight = 6
+name = "Impressum / Datenschutz"
+url = "/impressum"
+

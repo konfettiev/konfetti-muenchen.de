@@ -1,0 +1,10 @@
+{{ range where .Data.Pages "Title" "Willkommen bei Konfetti e.V." }}
+	{{ partial "header.html" . }}
+
+	{{ if .Params.image }}
+	<img src="{{ .Site.BaseURL }}img/{{ .Params.image }}" style="padding-bottom: 1em" alt=""/>
+	{{ end }}
+
+    {{ .Content }}
+	{{ partial "footer.html" . }}
+{{ end }}
