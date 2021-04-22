@@ -18,7 +18,7 @@ Registernummer 1620028056
 - Stephanie Frey (Vorstand "neue Eltern“)
 - Dagmar Berwanger (Personalvorstand)
 - Monique Kaiser (1. Finanzvorstand)
-- Claudia Warnke (2. Finanzvorstand)
+- Claudia Warnke-Renner (2. Finanzvorstand)
 
 ### Verantwortlich für die Inhalte
 
