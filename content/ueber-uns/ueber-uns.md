@@ -11,7 +11,6 @@ Sowohl Krippen-, als auch Kindergarten- und Hortkinder werden in regelmäßigen 
 Zudem sorgt ein erfahrenes und hochqualifiziertes [Erzieherinnenteam](/konfetti/ueber-uns/team), eine Kinderpflegerin und zwei FSJlerInnen für die bestmögliche Betreuung und Entwicklung der Krippen-, Kindergarten- und Hortkinder.
 
 [Team](/konfetti/ueber-uns/team)<br/>
-[Stellenausschreibungen](/konfetti/ueber-uns/stellenausschreibungen)<br/>
 [Zeiten & Preise](/konfetti/ueber-uns/zeiten-und-preise)<br/>
 [Förderer & Sponsoren](/konfetti/ueber-uns/foerderer-und-sponsoren)<br/>
 [Kontakt](/konfetti/ueber-uns/kontakt)<br/>

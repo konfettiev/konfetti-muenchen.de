@@ -55,4 +55,5 @@ kostenfrei &mdash; 0,00 Euro
 - Die Eltern erhalten gegen eine Kaution **Schlüssel** zur Einrichtung.
 
 - **Geschwisterkinder** erhalten eine Ermäßigung.
- 
+
+- Für die Verpflegung der Kinder werden folgende Essenspauschalen erhoben: Krippe 80,00 Euro, Kindergarten 100,00 EUR, Hort 90,00 Euro.
