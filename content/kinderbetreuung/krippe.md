@@ -23,6 +23,6 @@ Aufgrund der vielen BewerberInnen bitten wir Sie, diese Informationen genau zu l
 
 - **Öffnungszeiten** sind 8 bis 16 Uhr. Geschlossen ist die Einrichtung an gesetzlichen Feiertagen, Weihnachten, Ostern, eine Woche an Pfingsten und 2 bis 3 Wochen im August.
 
-- Das **Krippenteam** besteht derzeit aus einer Erzieherin, einer Kinderpflegerin und einer FSJ-Praktikantin (Freiwilliges Soziales Jahr).
+- Das **Krippenteam** besteht derzeit aus zwei Erzieherin und einer FSJ-Praktikantin (Freiwilliges soziales Jahr).
 
 - **Eltern** übernehmen ca. alle 10 Tage einen Putzdienst sowie weitere Elterndienste. Die Teilnahme an monatlichen Elternabenden ist Pflicht.
