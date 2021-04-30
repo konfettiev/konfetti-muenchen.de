@@ -29,11 +29,6 @@ identifier = "ueber-uns"
   url = "/ueber-uns/team/"
   [[menu.main]]
   parent = "ueber-uns"
-  weight = 2
-  name = "Stellenausschreibungen"
-  url = "/ueber-uns/stellenausschreibungen/"
-  [[menu.main]]
-  parent = "ueber-uns"
   weight = 3
   name = "Zeiten & Preise"
   url = "/ueber-uns/zeiten-und-preise/"
