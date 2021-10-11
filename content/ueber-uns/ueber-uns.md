@@ -13,4 +13,5 @@ Zudem sorgt ein erfahrenes und hochqualifiziertes [Erzieherinnenteam](/konfetti/
 [Team](/konfetti/ueber-uns/team)<br/>
 [Zeiten & Preise](/konfetti/ueber-uns/zeiten-und-preise)<br/>
 [Förderer & Sponsoren](/konfetti/ueber-uns/foerderer-und-sponsoren)<br/>
+[Konzeption](/konfetti/pdf/konzeption.pdf)<br>
 [Kontakt](/konfetti/ueber-uns/kontakt)<br/>
