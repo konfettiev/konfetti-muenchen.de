@@ -24,7 +24,7 @@ Das Team wird von mehreren qualifizierten Aushilfen ergänzt. Ein optimaler Betr
 
 ## Steffi
 
-![Michaela](/konfetti/img/team/steffi.jpg)
+![Steffi](/konfetti/img/team/steffi.jpg)
 
 - stellvert. Leitung 
 - Erzieherin im Kindergarten
@@ -37,7 +37,7 @@ Das Team wird von mehreren qualifizierten Aushilfen ergänzt. Ein optimaler Betr
 
 ## Anne-Marie 
 
-![Michaela](/konfetti/img/team/anne-marie.jpg)
+![Anne-Marie ](/konfetti/img/team/anne-marie.jpg)
 
 - Erzieherin im Kindergarten
 - Schwerpunkt Sprach-, Literatur- und Medienerziehung
@@ -49,14 +49,14 @@ Das Team wird von mehreren qualifizierten Aushilfen ergänzt. Ein optimaler Betr
 
 ## Jessy
 
-![Michaela](/konfetti/img/team/jessy.jpg)
+![Jessy](/konfetti/img/team/jessy.jpg)
 
 - Erzieherin im Hort
 - Schwerpunkt Kreativ- und Kunstpädagogik 
 
 ## Lea
 
-![Michaela](/konfetti/img/team/lea.jpg)
+![Lea](/konfetti/img/team/lea.jpg)
 
 - Ausbildung zu Erzieherin, 1. Lehrjahr
 - Schwerpunkt Kindergarten 
@@ -67,12 +67,12 @@ Das Team wird von mehreren qualifizierten Aushilfen ergänzt. Ein optimaler Betr
 
 ## Teresa 
 
-![Michaela](/konfetti/img/team/teresa.jpg)
+![Teresa](/konfetti/img/team/teresa.jpg)
 
 - Erzieherin in der Krippe 
 
 ## Tamara
 
-![Michaela](/konfetti/img/team/tamara.jpg)
+![Tamara](/konfetti/img/team/tamara.jpg)
 
 - Erzieherin in der Krippe 
