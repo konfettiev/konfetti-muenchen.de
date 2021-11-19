@@ -54,6 +54,10 @@ Das Team wird von mehreren qualifizierten Aushilfen ergänzt. Ein optimaler Betr
 - Erzieherin im Hort
 - Schwerpunkt Kreativ- und Kunstpädagogik 
 
+### Zusatzqualifikation
+
+- Zertifikat Integration
+
 ## Lea
 
 ![Michaela](/konfetti/img/team/lea.jpg)
@@ -61,9 +65,6 @@ Das Team wird von mehreren qualifizierten Aushilfen ergänzt. Ein optimaler Betr
 - Ausbildung zu Erzieherin, 1. Lehrjahr
 - Schwerpunkt Kindergarten 
 
-### Zusatzqualifikation
-
-- Zertifikat Integration
 
 ## Teresa 
 
