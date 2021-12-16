@@ -77,12 +77,6 @@ url = "/anmeldung"
 
 
 [[menu.main]]
-weight = 5
-name = "Offene Stellen"
-url = "/ueber-uns/stellenausschreibungen/"
-identifier = "highlight-menu"
-
-[[menu.main]]
 weight = 6
 name = "Impressum / Datenschutz"
 url = "/impressum"
