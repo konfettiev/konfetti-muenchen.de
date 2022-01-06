@@ -15,10 +15,9 @@ Angertorstraße 5<br/>
 Registernummer 1620028056
 
 ### Vertreten durch
-- Stephanie Frey (Vorstand "neue Eltern“)
-- Dagmar Berwanger (Personalvorstand)
-- Monique Kaiser (1. Finanzvorstand)
-- Claudia Warnke-Renner (2. Finanzvorstand)
+- Vera Timmermann (Vorstand "neue Eltern“)
+- Babette Hinner (Personalvorstand)
+- Dennis Schröder (1. Finanzvorstand)
 
 ### Verantwortlich für die Inhalte
 
