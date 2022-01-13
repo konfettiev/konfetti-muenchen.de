@@ -24,7 +24,7 @@ Registernummer 1620028056
 Marco Otte-Witte<br/>
 Reifenstuelstr. 13<br/>
 80469 München<br/>
-marco.otte-witte@simplabs.com<br/>
+marco@otte-witte.email<br/>
 
 # Haftungsausschluss
 
