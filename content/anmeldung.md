@@ -21,6 +21,6 @@ draft = false
 
 - In einem gemeinsamen **Elternabend im Frühjahr** werden alle Interessierten eingeladen, um mehr über die Einrichtung zu erfahren und um sich kurz vorzustellen. Kurze Zeit danach erfolgt eine **Entscheidung** und alle werden benachrichtigt.
 
-Möchten Sie ihr Kind beim Konfetti anmelden? Ist es bereits geboren? Sind sie an einem langfristigen Besuch der Einrichtung interessiert? Dann füllen Sie bitte das  [Anmeldeformular](/konfetti/pdf/konfetti-info-und-anmeldung.pdf) aus und senden Sie es per Post an die Angertorstr. 5, 80469 München.
+Möchten Sie ihr Kind beim Konfetti anmelden? Ist es bereits geboren? Sind sie an einem langfristigen Besuch der Einrichtung interessiert? Dann füllen Sie bitte das  [Anmeldeformular](/pdf/konfetti-info-und-anmeldung.pdf) aus und senden Sie es per Post an die Angertorstr. 5, 80469 München.
 
 Fragen per Mail können Sie stellen an: [anmeldung@konfetti-muenchen.de](mailto:anmeldung@konfetti-muenchen.de) 
