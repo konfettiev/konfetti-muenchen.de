@@ -1,7 +1,6 @@
 languageCode = "de"
 title = "Konfetti"
 theme = "konfetti"
-baseurl = "http://home.mnet-online.de/konfetti/"
 enableEmoji = true
 googleAnalytics = ""
 

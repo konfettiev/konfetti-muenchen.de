@@ -4,26 +4,24 @@ on:
       - main
 
 jobs:
-  web-deploy:
+  deploy:
     name: 🚀 Deploy
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
 
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v2.3.2
-
+        uses: actions/checkout@v2
+    
       - name: ⚙️ Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 0.81.0
-
+    
       - name: 🔨 Build
-        run: hugo --environment production
-
-      - name: 🚢 Upload Site
-        uses: SamKirkland/FTP-Deploy-Action@4.0.0
+        run: hugo --environment production --minify
+    
+      - name: 🚢 Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          server: home.mnet-online.de
-          local-dir: ./public/
-          username: konfettiftp
-          password: ${{ secrets.FTP_PASSWORD }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
