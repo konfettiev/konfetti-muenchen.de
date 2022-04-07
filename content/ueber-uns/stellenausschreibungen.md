@@ -13,8 +13,6 @@ Konfetti e.V. ist eine Eltern-Kind-Initiative, die schon seit 31 Jahren im Münc
 
 Unsere Krippe hat 10 bis 11 Kinder im Alter von 1 bis 3 Jahren. Diese werden gemeinsam zwei pädagogischen Fachkräften und einer SPS Praktikantin bzw. FSJ betreut.
 
-Unsere Krippe hat 10 bis 11 Kinder im Alter von 1 bis 3 Jahren. Diese werden gemeinsam mit der Gruppenleitung von zwei Kinderpflegerinnen (Voll- und Teilzeit) und einer SPS Praktikantin betreut.
-
 ### Wir bieten
 
 * Anstellung mit einer tariflichen Lohnzahlung nach TVöD SuE mit zusätzlichen Sozialleistungen (betriebliche Altersvorsorge)
