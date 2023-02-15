@@ -4,3 +4,5 @@ title = "Willkommen bei Konfetti e.V."
 draft = false
 image = "welcome.jpg"
 +++
+
+<h2>>> <a href="https://www.openpetition.de/petition/online/bezahlbare-kinderbetreuung-in-eltern-kind-initiativen-sichern-jetzt" target="_blank">Petition: Bezahlbare Kinderbetreuung in Elter-Kind-Initiative sichern jetzt!</a> <<</h2>
