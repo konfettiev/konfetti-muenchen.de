@@ -26,49 +26,6 @@ Konfetti e.V. ist eine Eltern-Kind-Initiative, die schon seit 32 Jahren im Münc
 * Den Wunsch in einer selbstorganisierten, familiären Einrichtung mit Kindern zu Lachen, zu Trösten, zu Spielen zu Teilen und zu Lernen warum das alles wichtig ist.
 * Verantwortungsbereitschaft, Engagement und Überzeugung, für die eigenen und die Werte des Vereins Konfetti einzutreten
 
-## Pädagogische Fachkraft (w/m/d) in Vollzeit zunächst befristet für eine Elternzeitvertretung mit Option auf Verlängerung
-
-**Für unsere Krippe suchen wir zum nächstmöglichen Zeitpunkt eine pädagogische Fachkraft (w/m/d) in Vollzeit zunächst befristet für eine Elternzeitvertretung mit Option auf Verlängerung**
-
-### Wir bieten
-
-* Anstellung mit einer tariflichen Lohnzahlung nach TVöD SuE mit zusätzlichen Sozialleistungen (betriebliche Altersvorsorge)
-* Die Chance, eigene Schwerpunkte in die pädagogische Arbeit einzubringen und das Profil von Konfetti mitzugestalten und weiter zu entwickeln
-* Die Arbeit in einem motivierten, qualifizierten und verantwortungsvollen Team
-* Die Mitgestaltung der pädagogischen Konzeption nach dem Bayerischen Bildungs- und Erziehungsplan in engem Austausch mit dem Team und der Gesamtleitung
-* Eine partnerschaftliche und wertschätzende Zusammenarbeit mit dem Vorstandsteam und den Eltern
-* Regelmäßige Team- und Fachtage mit Supervision und vielfältigen Fortbildungsmöglichkeiten Vielfältige Gestaltungsmöglichkeiten in einer ausgesprochen angenehmen und familiären Arbeitsatmosphäre im Herzen von München
-
-### Sie bringen mit
-
-* Eine abgeschlossene Aus-oder Weiterbildung zur staatlich anerkannten Erzieherin / staatlich anerkannten Erzieher/ pädagogischen Fachkraft
-* Freude in der Beteiligung von und im Umgang mit Kindern
-* Erfahrung in einer Kinderkrippe (gewünscht)
-* Verantwortungsbereitschaft, Engagement und Überzeugung, für die eigenen und die Werte des Vereins Konfetti einzutreten 
-
-## Praktikant*in im Anerkennungsjahr und/oder SPS1 oder SPS2
-
-**Für unsere Einrichtung suchen wir ab dem 01.09.2022 für das Einrichtungsjahr 2022/2023 eine*n Praktikant*in im Anerkennungsjahr und/oder SPS1 oder SPS2**
-
-### Wir bieten
-
-* Berufserfahrung und fundierte Ausbildung in einer altersgemischten Einrichtung.
-* Die Arbeit in einem motivierten, qualifizierten und verantwortungsvollen Team
-* Eine partnerschaftliche und wertschätzende Zusammenarbeit mit dem Vorstandsteam und
-den Eltern
-* Regelmäßige Team- und Fachtage
-* Supervision und vielfältige Fortbildungsmöglichkeiten
-* Vielfältige Gestaltungsmöglichkeiten in einer ausgesprochen angenehmen und familiären
-Arbeitsatmosphäre im Herzen von München
-
-### Sie bringen mit
-
-* Freude in der Beteiligung von und im Umgang mit Kindern
-* Den Wunsch in einer selbstorganisierten, familiären Einrichtung mit Kindern zu Lachen, zu
-Trösten, zu Spielen zu Teilen und zu Lernen warum das alles wichtig ist.
-* Verantwortungsbereitschaft, Engagement und Überzeugung, für die eigenen und die Werte
-des Vereins Konfetti einzutreten
-
 # Kontakt
 
 Wir freuen uns auf ihre Bewerbung per E-Mail an personal@konfetti-muenchen.de oder per Post an:
