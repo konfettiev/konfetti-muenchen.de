@@ -5,13 +5,30 @@ draft = false
 
 +++
 
+Konfetti e.V. ist eine Eltern-Kind-Initiative, die schon seit 32 Jahren im Münchner Glockenbachviertel zu Hause ist (Nähe U-Bahn-Station Sendlinger Tor, Tramstation Müllerstraße). Zunächst als Kindergarten gegründet wurden aufgrund der hohen Beliebtheit bei den Eltern im Laufe der Jahre ein Hort und eine Krippe ergänzt. Das altersgemischte Konzept bietet eine langfristige Perspektive für Eltern und für bis zu 41 Kinder im Alter von 1 bis 12 Jahren.
+
+## Praktikant*in im Anerkennungsjahr und/oder SEJ/Optiprax
+
+**Für unsere Einrichtung suchen wir  ab dem 01.09.2023 für das Einrichtungsjahr 2023/2024  eine*n Praktikant*in im Anerkennungsjahr und/oder SEJ/Optiprax**
+
+### Wir bieten
+
+* Berufserfahrung und fundierte Ausbildung in einer altersgemischten Einrichtung.
+* Die Arbeit in einem motivierten, qualifizierten und verantwortungsvollen Team 
+* Eine partnerschaftliche und wertschätzende Zusammenarbeit mit dem Vorstandsteam und den Eltern
+* Regelmäßige Team- und Fachtage
+* Supervision und vielfältige Fortbildungsmöglichkeiten
+* Vielfältige Gestaltungsmöglichkeiten in einer ausgesprochen angenehmen und familiären Arbeitsatmosphäre im Herzen von München
+
+### Sie bringen mit
+
+* Freude in der Beteiligung von und im Umgang mit Kindern
+* Den Wunsch in einer selbstorganisierten, familiären Einrichtung mit Kindern zu Lachen, zu Trösten, zu Spielen zu Teilen und zu Lernen warum das alles wichtig ist.
+* Verantwortungsbereitschaft, Engagement und Überzeugung, für die eigenen und die Werte des Vereins Konfetti einzutreten
+
 ## Pädagogische Fachkraft (w/m/d) in Vollzeit zunächst befristet für eine Elternzeitvertretung mit Option auf Verlängerung
 
 **Für unsere Krippe suchen wir zum nächstmöglichen Zeitpunkt eine pädagogische Fachkraft (w/m/d) in Vollzeit zunächst befristet für eine Elternzeitvertretung mit Option auf Verlängerung**
-
-Konfetti e.V. ist eine Eltern-Kind-Initiative, die schon seit 31 Jahren im Münchner Glockenbachviertel zu Hause ist (Nähe U-Bahn-Station Sendlinger Tor/Fraunhoferstrasse, Tramstation Müllerstraße). Zunächst als Kindergarten gegründet wurden aufgrund der hohen Beliebtheit bei den Eltern im Laufe der Jahre ein Hort und eine Krippe ergänzt. Das altersgemischte Konzept bietet eine langfristige Perspektive für Eltern und Ihre Kinder. Wir betreuen bis zu 41 Kinder im Alter von 1 bis 12 Jahren.
-
-Unsere Krippe hat 10 bis 11 Kinder im Alter von 1 bis 3 Jahren. Diese werden gemeinsam zwei pädagogischen Fachkräften und einer SPS Praktikantin bzw. FSJ betreut.
 
 ### Wir bieten
 
@@ -32,8 +49,6 @@ Unsere Krippe hat 10 bis 11 Kinder im Alter von 1 bis 3 Jahren. Diese werden gem
 ## Praktikant*in im Anerkennungsjahr und/oder SPS1 oder SPS2
 
 **Für unsere Einrichtung suchen wir ab dem 01.09.2022 für das Einrichtungsjahr 2022/2023 eine*n Praktikant*in im Anerkennungsjahr und/oder SPS1 oder SPS2**
-
-Konfetti e.V. ist eine Eltern-Kind-Initiative, die schon seit 31 Jahren im Münchner Glockenbachviertel zu Hause ist (Nähe U-Bahn-Station Sendlinger Tor, Tramstation Müllerstraße). Zunächst als Kindergarten gegründet wurden aufgrund der hohen Beliebtheit bei den Eltern im Laufe der Jahre ein Hort und eine Krippe ergänzt. Das altersgemischte Konzept bietet eine langfristige Perspektive für Eltern und für bis zu 41 Kinder im Alter von 1 bis 12 Jahren
 
 ### Wir bieten
 
@@ -62,4 +77,4 @@ Konfetti e. V.<br>
 Angertorstraße 5<br>
 80469 München
 
-Gerne können Sie uns auch anrufen unter 089-260 68 12.
+Gerne können Sie uns auch anrufen unter 089-260 68 12 (Ansprechperson: Michaela Martin).
