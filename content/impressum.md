@@ -15,9 +15,10 @@ Angertorstraße 5<br/>
 Registernummer 1620028056
 
 ### Vertreten durch
-- Vera Timmermann (Vorstand "neue Eltern“)
+- Vera Timmermann (1. Finanzvorstand)
+- Jana Angermeier (2. Finanzvorstand)
+- Susanne Prieschl (Vortand "Neue Eltern")
 - Babette Hinner (Personalvorstand)
-- Dennis Schröder (1. Finanzvorstand)
 
 ### Verantwortlich für die Inhalte
 
