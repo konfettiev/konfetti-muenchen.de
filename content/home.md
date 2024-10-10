@@ -4,5 +4,3 @@ title = "Willkommen bei Konfetti e.V."
 draft = false
 image = "welcome.jpg"
 +++
-
-<h2>>> Hortplatz frei ab September!! <<</h2>
