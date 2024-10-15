@@ -9,7 +9,7 @@ Konfetti e.V. ist eine Eltern-Kind-Initiative, die schon seit 32 Jahren im Münc
 
 ## Pädagogische Fachkraft (w/m/d) in Vollzeit
 
-**Für unsere Krippe suchen wir zum baldmöglichsten Zeitpunkt eine pädagogische Fachkraft (w/m/d) in Vollzeit.**
+**Wir suchen zum baldmöglichsten Zeitpunkt eine pädagogische Fachkraft (w/m/d) in Vollzeit.**
 
 ### Wir bieten
 
