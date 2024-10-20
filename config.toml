@@ -2,7 +2,6 @@ languageCode = "de"
 title = "Konfetti"
 theme = "konfetti"
 enableEmoji = true
-googleAnalytics = ""
 
 [params]
 description = "Website des Konfetti e.V."
