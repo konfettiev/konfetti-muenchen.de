@@ -18,7 +18,7 @@ Registernummer 1620028056
 - Vera Timmermann (1. Finanzvorstand)
 - Jana Angermeier (2. Finanzvorstand)
 - Susanne Prieschl (Vortand "Neue Eltern")
-- Babette Hinner (Personalvorstand)
+- Anne Bickel (Personalvorstand)
 
 ### Verantwortlich für die Inhalte
 
