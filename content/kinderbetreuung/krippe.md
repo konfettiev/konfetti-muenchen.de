@@ -21,7 +21,7 @@ Aufgrund der vielen BewerberInnen bitten wir Sie, diese Informationen genau zu l
 
 - Wir **betreuen 9-12 Kinder** im Alter zwischen 1 und 3 Jahren. Die Aufnahme in die Einrichtung kann daher auch fortlaufend innerhalb eines Jahres zum tatsächlichen ersten Geburtstag erfolgen.
 
-- **Öffnungszeiten** sind 8 bis 16 Uhr. Geschlossen ist die Einrichtung an gesetzlichen Feiertagen, Weihnachten, Ostern, eine Woche an Pfingsten und 2 bis 3 Wochen im August.
+- **Öffnungszeiten** sind 7:30 bis 16 Uhr. Geschlossen ist die Einrichtung an gesetzlichen Feiertagen, Weihnachten, Ostern, eine Woche an Pfingsten und 2 bis 3 Wochen im August.
 
 - Das **Krippenteam** besteht derzeit aus zwei Erzieherin und einer FSJ-Praktikantin (Freiwilliges soziales Jahr).
 
