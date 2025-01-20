@@ -12,7 +12,7 @@ Unsere Öffnungszeiten sind wie folgt:
 | Einrichtung &nbsp;&nbsp;&nbsp;&nbsp;| Zeiten
 | ------------- |-------------:|
 | Krippe        | 7:30 - 16:00 |
-| Kindergarten  | 7:30 - 17:00 |
+| Kindergarten  | 7:30 - 17:15 |
 | Hort          | Schulschluss bis 17:15    |
  
 **Freitags** schließt der gesamte Konfetti e. V. bereits um 16 Uhr.
