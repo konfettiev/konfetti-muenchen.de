@@ -34,7 +34,7 @@ Alle Kosten in Euro.
 | Hort (5 + 6 Klasse)          | je nach gebuchter durchschnittl. Zeit/Tag|je nach Anzahl Essen/Brotzeit |        | 1 - 2h oder > 2 - 3h (je nach Stundenplan)     
 | Mitgliedsbeitrag             | 25,00€         |  
 
-<small>Wir verweisen auf die u.a. Gebührenordnung der Stadt München, Stand: 1.9.24.<br>
+<small>Wir verweisen auf die u.a. Gebührenordnung der Stadt München, Stand: 1.1.25.<br>
 Geschwisterermäßigung: siehe Tabellen Gebührensätze - eine Gehaltsstufe weniger.<br>
 Ab Drittkind Gebührenfreiheit.<br>
 Kindergarten ist gebührenfrei.
