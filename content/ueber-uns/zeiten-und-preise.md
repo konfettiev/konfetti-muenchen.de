@@ -31,7 +31,7 @@ Alle Kosten in Euro.
 | Kindergarten                 | 0,00€   | 120,00€ | 120,00€ | > 9h |
 | Hort (1. + 2. Klasse)        | 125,00€ | 109,00€ | 234,00€ | > 4 - 5h (Schulzeit) |
 | Hort (3. + 4. Klasse)        | 113,00€ | 109,00€ | 222,00€ | > 3 - 4h (Schulzeit) |
-| Hort (5. + 6. Klasse)        | je nach gebuchter durchschn. Zeit/Tag | je Anwesenheitstag inkl. Mittagessen 21,00€ | | > 1 - 2h, > 2 - 3h, > 3 - 4h nach Bedarf (Schulzeit) |
+| Hort (5. + 6. Klasse)        | je nach gebuchter durchschn. Zeit/Tag | je Anwesenheitstag 22,00€ | | > 1 - 2h, > 2 - 3h, > 3 - 4h nach Bedarf (Schulzeit) |
 | Freiwilliger Mitgliedsbeitrag | 25,00€ (seit 1.1.22) | | | |
 
 <small>Wir verweisen auf die u. a. Gebührensätze gemäß Richtlinie EKI Plus, gültig seit 1.1.26.<br>
@@ -97,4 +97,4 @@ Für Kinder, die ihren gewöhnlichen Aufenthalt nicht in München haben, gelten 
 
 - **Geschwisterkinder** erhalten eine Ermäßigung.
 
-- Für die Verpflegung der Kinder werden folgende Essenspauschalen erhoben (seit 1.10.26): Krippe 120,00 Euro, Kindergarten 120,00 Euro, Hort 109,00 Euro. Bei Teilzeitbuchung im Hort: 22,00 Euro je Anwesenheitstag inkl. Mittagessen.
+- Für die Verpflegung der Kinder werden folgende Essenspauschalen erhoben (seit 1.10.26): Krippe 120,00 Euro, Kindergarten 120,00 Euro, Hort 109,00 Euro. Bei Teilzeitbuchung im Hort: 22,00 Euro je Anwesenheitstag.
